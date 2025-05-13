@@ -2,8 +2,7 @@
 
 ## 🧑‍💻 About Me
 
-I am **Begench Danatarow**, a passionate **Frontend Developer** with over **2 years** of experience building modern and responsive web applications.  
-📍 Based in **Ashgabat, Turkmenistan**
+I am **Begench Danatarow**, a passionate **Frontend Developer** with over **2 years** of experience building modern and responsive web applications.
 
 ---
 
